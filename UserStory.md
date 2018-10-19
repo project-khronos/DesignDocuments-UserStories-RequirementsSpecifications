@@ -1,4 +1,4 @@
-#Project Kronos User Story
+# Project Kronos User Story
 
 1. As a user I’d like to be able to login . 
 2. Once in the job, I’d like to start recording my time as well as my location. 
